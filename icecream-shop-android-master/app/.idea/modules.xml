@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="icecream-shop-android-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2068058864/icecream-shop-android-master.iml" filepath="$PROJECT_DIR$/.idea/modules/-2068058864/icecream-shop-android-master.iml" group="icecream-shop-android-master" />
+    </modules>
+  </component>
+</project>

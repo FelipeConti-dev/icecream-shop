@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.unicamp.ft.f171247.icecream">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Icecream"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="br.unicamp.ft.f171247.icecream.ViewActivity" />
+        <activity android:name="br.unicamp.ft.f171247.icecream.OrderActivity" />
+        <activity android:name="br.unicamp.ft.f171247.icecream.WaffleActivity" />
+        <activity android:name="br.unicamp.ft.f171247.icecream.CreamActivity" />
+        <activity android:name="br.unicamp.ft.f171247.icecream.WelcomeActivity" />
+        <activity android:name="br.unicamp.ft.f171247.icecream.ForgotActivity" />
+        <activity android:name="br.unicamp.ft.f171247.icecream.SignActivity" />
+        <activity android:name="br.unicamp.ft.f171247.icecream.MainActivity" />
+        <activity android:name="br.unicamp.ft.f171247.icecream.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "562050559648",
+    "firebase_url": "https://icecream-master-bbf53.firebaseio.com",
+    "project_id": "icecream-master-bbf53",
+    "storage_bucket": "icecream-master-bbf53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562050559648:android:9018c0687038bbb28ce3c5",
+        "android_client_info": {
+          "package_name": "br.unicamp.ft.f171247.icecream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562050559648-pat9dslipd5ti7sbh9d4gh2ejpuddl84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx97EUCzHMml3cpLfGViMwHZSWPUm99K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562050559648-pat9dslipd5ti7sbh9d4gh2ejpuddl84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
